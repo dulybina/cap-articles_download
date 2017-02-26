@@ -1,0 +1,23 @@
+Total Number of documents found: 21
+Total NEW documents found: 20
+Finished loading: -doc-cr1754.pdf
+Finished loading: -doc-cr1756.pdf
+Finished loading: -doc-cr1753.pdf
+Finished loading: -doc-cr1750.pdf
+Finished loading: -doc-cr1742.pdf
+Finished loading: -doc-cr1740.pdf
+Finished loading: -doc-cr1739.pdf
+Finished loading: -doc-cr1736.pdf
+Finished loading: -doc-cr1737.pdf
+Finished loading: -doc-cr1732.pdf
+Finished loading: -doc-cr1726.pdf
+Finished loading: -doc-cr1730.pdf
+Finished loading: -doc-cr1728.pdf
+Finished loading: -doc-cr1722.pdf
+Finished loading: -doc-cr1723.pdf
+Finished loading: -doc-cr1719.pdf
+Finished loading: -doc-cr1715.pdf
+Finished loading: -doc-cr1709.pdf
+Finished loading: -doc-cr1711.pdf
+Finished loading: -doc-cr1701.pdf
+Time used for parsing: 30.25528646603925 seconds
